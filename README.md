@@ -31,7 +31,7 @@ Porque la elección de este párrafo, porque los dos medios que vamos a tratar y
 
 TeamLab colectivo internacional de arte, formado por artistas, programadores, ingenieros, animadores, matemáticos y arquitectos, donde ellos mismos se denominan ULTRATECNOLOGOS. Este grupo se dedica a la creación de arte mediante la tecnología digital.
 
-<center><img src="https://live.staticflickr.com/7917/46534356171_50fea50f5c_w.jpg" width="400" height="auto" alt="teamLab"></center>
+<img src="https://live.staticflickr.com/7917/46534356171_50fea50f5c_w.jpg" width="400" height="auto" alt="teamLab">
 
 Este grupo a creado una hibridez de medios, donde el usuario puede experimentar el arte usando los 5 sentidos al entrar en una de las diferentes salas que pueda tener el complejo, es la unión entre diferentes medios tecnológicos en conjunción.
 
@@ -42,12 +42,13 @@ Como bien podemos leer en **Lev Manovich, El Software toma el mando.**
 Como bien los define, eso es **TEAMLAB**, donde la unión de las últimas tecnologías como el videomapping, sonido inmersivo, olores, sensores y regulación de temperatura crea una experiencia inmersiva.
 El usuario es una pieza más dentro de la propia obra de arte, se ha conseguido esto gracia a las investigaciones sobre el procesamiento de señales, detección de patrones y reconocimiento de objetos. Estas sofwarización ha creado una nueva hibridación enfocada en la inmersión dentro del Arte Digital.
 
--><img src="https://live.staticflickr.com/7873/32661109788_8b84d78521_w.jpg" width="400" height="300" alt="チームラボボーダレス お台場 teamLab Borderless"><-
+<img src="https://live.staticflickr.com/7873/32661109788_8b84d78521_w.jpg" width="400" height="300" alt="チームラボボーダレス お台場 teamLab Borderless">
 
 En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte del sistema de hibridación, donde el usuario es el activador de los algoritmos que han creado para diferentes acciones dentro del museo de arte. Algoritmos capaces que detectar tu posición creando que la proyección generada por videomapping seleccione el punto donde deben crecer flores, cortar el fluir de la proyección del agua o simplemente dar la orden para que la proyección salte encima de el. 
 
+https://www.youtube.com/watch?v=DvPWhxMpYWc
 
-## Re-descubriendo la hibridacion: Deep Fake
+## Re-descubriendo la hibridacion: Deepfake
 
 
 
@@ -61,6 +62,7 @@ En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte
 * https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%9C Teamlab
 * https://flic.kr/p/2dU5JRH 
 * https://flic.kr/p/RL9J3y
+* https://www.xataka.com/robotica-e-ia/hablan-creadores-deepfake-lola-flores-pese-a-usar-inteligencia-artificial-fue-proceso-bastante-artesanal 
 
 
 ----
