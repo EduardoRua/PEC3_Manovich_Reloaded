@@ -32,8 +32,7 @@ Porque la elección de este párrafo, porque los dos medios que vamos a tratar y
 
 TeamLab colectivo internacional de arte, formado por artistas, programadores, ingenieros, animadores, matemáticos y arquitectos, donde ellos mismos se denominan ULTRATECNOLOGOS. Este grupo se dedica a la creación de arte mediante la tecnología digital.
 
-<img src="https://live.staticflickr.com/7917/46534356171_1c128a0dc4_h.jpg"  alt="teamLab"></a>
-
+<center><img src="https://live.staticflickr.com/7917/46534356171_50fea50f5c_w.jpg" width="400" height="300" alt="teamLab"></center>
 
 
 
