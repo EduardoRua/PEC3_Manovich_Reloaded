@@ -69,7 +69,7 @@ Seguramente la tecnologia de Deepfake cuadraría a la perfección con la siguien
 >El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.
 
 
-
+En conclusión, hoy se usa esta algoritmo en bastantes medios, desde poder traer personajes que ya no estan como el famoso anuncio de Cruzcampo donde reprodujeron a Lola Flores. Aún es una técnica que le queda mucho camino por delante, pero con After Effects ocurrio igual, la versión que existe hoy día esta lejos de la versión que hubo en 1993, esperemos que esta técnica envejezca tan bien como el.
 
 
 
@@ -86,8 +86,9 @@ Seguramente la tecnologia de Deepfake cuadraría a la perfección con la siguien
 * https://www.tomsguide.fr/content/uploads/sites/2/2021/08/luke-skywalker.jpg
 * https://www.youtube.com/watch?v=-3GEmuKOlLo
 * https://movieweb.com/tron-legacy-deepfakes-jeff-bridges/
-* 
-* 
+* https://www.xataka.com/robotica-e-ia/deepfake-nos-esta-ganando-partida-cazamos-mitad-imagenes-falsas-generadas-algoritmo
+* https://www.xataka.com/robotica-e-ia/diferenciar-imagen-real-deepfake-era-practicamente-imposible-ahora-adobe
+
 
 
 ----
