@@ -50,6 +50,22 @@ En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte
 
 ## Re-descubriendo la hibridacion: Deepfake
 
+Terminamos hablando sobre Deepfake, que seguramente **Lev Manovich** dedicaría un libro entero acerca de su algoritmo.
+
+Hoy día el uso del deepfake esta bastante extendido y cada vez más debido a la evolución que está sufriendo a pasos agigantados. Uno de los usos que está teniendo en a la hora de rejuvenecer actores en películas por ejemplo en **Tron:Legacy** donde tratan de recrear a un **Jeff Bridges** más joven equivalente a la película **Tron** del 1982, **Rogue One una historia de Star War**s donde vemos a una **princesa Leia** igual de joven que en la pelicula de **Star Wars** de 1977, casi 40 años despues.
+
+En este caso vamos hablar sobre el personaje de **Luke Skywalker** y la aparición en **El libro de Boba Fett**, donde el actor **Mark Hamill** vuelve a ser el papel de joven Jedi justo después del Retorno de Jedi, pero no es Mark Hamill ¿Que es esta brujeria? 
+
+Esta brujería se llama **deepfake** y se basa en una inteligencia artifial que se vale de una desmesurada muestra de imágenes del personaje a reproducir, contra más imagenes existan mejor calidad habrá. En este caso se usaron todo los videos y entrevistas donde aparecía un Mark Hamill más joven perteneciente a la primera trilogía de star wars. Con todas esta imágenes el software se encarga de analizarlas, una vez el programa ha analizado todo los videos pasamos a la segunda parte.
+
+En este momento debemos darle al programa la grabación del actor que haceel papel de **Mark Hamill** una vez tiene las imagenes a seleccionar y el video sobre el que vamos a realizar el cambio de rostro comienza a analizarlo. Decir que este es un proceso bastante largo, puede tardas bastantes horas en realizar dicha tarea hasta conseguir encontrar toda las imagenes validas para poder realizar el cambio. 
+
+En el siguiente video podeis ver una breve muestra el laborioso trabajo. [Deepfake Luke Skywalker](https://youtu.be/-3GEmuKOlLo?t=75) 
+
+Seguramente la tecnologia de Deepfake cuadraría a la perfección con la siguiente cita de Lev Manovich.
+>el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.
+
+
 
 
 
@@ -63,6 +79,7 @@ En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte
 * https://flic.kr/p/2dU5JRH 
 * https://flic.kr/p/RL9J3y
 * https://www.xataka.com/robotica-e-ia/hablan-creadores-deepfake-lola-flores-pese-a-usar-inteligencia-artificial-fue-proceso-bastante-artesanal 
+* https://es.gizmodo.com/asi-se-hizo-el-deepfake-de-lola-flores-para-un-anuncio-1846099743
 
 
 ----
