@@ -31,7 +31,7 @@ Porque la elección de este párrafo, porque los dos medios que vamos a tratar y
 
 TeamLab colectivo internacional de arte, formado por artistas, programadores, ingenieros, animadores, matemáticos y arquitectos, donde ellos mismos se denominan ULTRATECNOLOGOS. Este grupo se dedica a la creación de arte mediante la tecnología digital.
 
--><img src="https://live.staticflickr.com/7917/46534356171_50fea50f5c_w.jpg" width="400" height="auto" alt="teamLab"><-
+<center><img src="https://live.staticflickr.com/7917/46534356171_50fea50f5c_w.jpg" width="400" height="auto" alt="teamLab"></center>
 
 Este grupo a creado una hibridez de medios, donde el usuario puede experimentar el arte usando los 5 sentidos al entrar en una de las diferentes salas que pueda tener el complejo, es la unión entre diferentes medios tecnológicos en conjunción.
 
