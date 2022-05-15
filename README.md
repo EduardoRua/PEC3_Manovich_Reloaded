@@ -42,7 +42,7 @@ Como bien podemos leer en **Lev Manovich, El Software toma el mando.**
 Como bien los define, eso es **TEAMLAB**, donde la unión de las últimas tecnologías como el videomapping, sonido inmersivo, olores, sensores y regulación de temperatura crea una experiencia inmersiva.
 El usuario es una pieza más dentro de la propia obra de arte, se ha conseguido esto gracia a las investigaciones sobre el procesamiento de señales, detección de patrones y reconocimiento de objetos. Estas sofwarización ha creado una nueva hibridación enfocada en la inmersión dentro del Arte Digital.
 
-<img src="https://live.staticflickr.com/7873/32661109788_8b84d78521_w.jpg" width="400" height="300" alt="チームラボボーダレス お台場 teamLab Borderless">
+<img src="https://live.staticflickr.com/7873/32661109788_8b84d78521_w.jpg" width="400" height="auto" alt="チームラボボーダレス お台場 teamLab Borderless">
 
 En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte del sistema de hibridación, donde el usuario es el activador de los algoritmos que han creado para diferentes acciones dentro del museo de arte. Algoritmos capaces que detectar tu posición creando que la proyección generada por videomapping seleccione el punto donde deben crecer flores, cortar el fluir de la proyección del agua o simplemente dar la orden para que la proyección salte encima de el. 
 
@@ -56,7 +56,7 @@ Hoy día el uso del deepfake esta bastante extendido y cada vez más debido a la
 
 En este caso vamos hablar sobre el personaje de **Luke Skywalker** y la aparición en **El libro de Boba Fett**, donde el actor **Mark Hamill** vuelve a ser el papel de joven Jedi justo después del Retorno de Jedi, pero no es Mark Hamill ¿Que es esta brujeria? 
 
-<img src="https://www.tomsguide.fr/content/uploads/sites/2/2021/08/luke-skywalker.jpg" width="400" height="300">
+<img src="https://www.tomsguide.fr/content/uploads/sites/2/2021/08/luke-skywalker.jpg" width="400" height="auto">
 
 
 Esta brujería se llama **deepfake** y se basa en una inteligencia artifial que se vale de una desmesurada muestra de imágenes del personaje a reproducir, contra más imagenes existan mejor calidad habrá. En este caso se usaron todo los videos y entrevistas donde aparecía un Mark Hamill más joven perteneciente a la primera trilogía de star wars. Con todas esta imágenes el software se encarga de analizarlas, una vez el programa ha analizado todo los videos pasamos a la segunda parte.
