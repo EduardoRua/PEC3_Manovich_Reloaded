@@ -56,7 +56,7 @@ Hoy día el uso del deepfake esta bastante extendido y cada vez más debido a la
 
 En este caso vamos hablar sobre el personaje de **Luke Skywalker** y la aparición en **El libro de Boba Fett**, donde el actor **Mark Hamill** vuelve a ser el papel de joven Jedi justo después del Retorno de Jedi, pero no es Mark Hamill ¿Que es esta brujeria? 
 
-<img src="https://www.tomsguide.fr/content/uploads/sites/2/2021/08/luke-skywalker.jpg" width="400" height="auto">
+<img src="https://www.tomsguide.fr/content/uploads/sites/2/2021/08/luke-skywalker.jpg" width="700" height="auto">
 
 
 Esta brujería se llama **deepfake** y se basa en una inteligencia artifial que se vale de una desmesurada muestra de imágenes del personaje a reproducir, contra más imagenes existan mejor calidad habrá. En este caso se usaron todo los videos y entrevistas donde aparecía un Mark Hamill más joven perteneciente a la primera trilogía de star wars. Con todas esta imágenes el software se encarga de analizarlas, una vez el programa ha analizado todo los videos pasamos a la segunda parte.
