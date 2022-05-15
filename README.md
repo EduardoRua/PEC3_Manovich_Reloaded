@@ -46,7 +46,7 @@ El usuario es una pieza más dentro de la propia obra de arte, se ha conseguido 
 
 En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte del sistema de hibridación, donde el usuario es el activador de los algoritmos que han creado para diferentes acciones dentro del museo de arte. Algoritmos capaces que detectar tu posición creando que la proyección generada por videomapping seleccione el punto donde deben crecer flores, cortar el fluir de la proyección del agua o simplemente dar la orden para que la proyección salte encima de el. 
 
-###[Video teamlab, interacción con el medio](https://www.youtube.com/embed/DvPWhxMpYWc)
+[Video teamlab, interacción con el medio](https://www.youtube.com/embed/DvPWhxMpYWc)
 
 ## Re-descubriendo la hibridacion: Deepfake
 
@@ -63,8 +63,8 @@ Esta brujería se llama **deepfake** y se basa en una inteligencia artifial que 
 
 En este momento debemos darle al programa la grabación del actor que haceel papel de **Mark Hamill** una vez tiene las imagenes a seleccionar y el video sobre el que vamos a realizar el cambio de rostro comienza a analizarlo. Decir que este es un proceso bastante largo, puede tardas bastantes horas en realizar dicha tarea hasta conseguir encontrar toda las imagenes validas para poder realizar el cambio. 
 
-###En el siguiente video podeis ver una breve muestra el laborioso trabajo. [Deepfake Luke Skywalker](https://youtu.be/-3GEmuKOlLo?t=75) 
-
+En el siguiente video podeis ver una breve muestra el laborioso trabajo. [Deepfake Luke Skywalker](https://youtu.be/-3GEmuKOlLo?t=75) 
+---
 Seguramente la tecnologia de Deepfake cuadraría a la perfección con la siguiente cita de Lev Manovich.
 >El resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.
 
