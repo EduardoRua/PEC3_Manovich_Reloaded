@@ -46,7 +46,7 @@ El usuario es una pieza más dentro de la propia obra de arte, se ha conseguido 
 
 En conclusión cuando entras dentro del software **Teamlab**, entras a ser parte del sistema de hibridación, donde el usuario es el activador de los algoritmos que han creado para diferentes acciones dentro del museo de arte. Algoritmos capaces que detectar tu posición creando que la proyección generada por videomapping seleccione el punto donde deben crecer flores, cortar el fluir de la proyección del agua o simplemente dar la orden para que la proyección salte encima de el. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DvPWhxMpYWc"></iframe>
+[Video teamlab, interacción con el medio](https://www.youtube.com/embed/DvPWhxMpYWc)
 
 ## Re-descubriendo la hibridacion: Deepfake
 
