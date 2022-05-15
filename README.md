@@ -32,7 +32,7 @@ Porque la elección de este párrafo, porque los dos medios que vamos a tratar y
 
 TeamLab colectivo internacional de arte, formado por artistas, programadores, ingenieros, animadores, matemáticos y arquitectos, donde ellos mismos se denominan ULTRATECNOLOGOS. Este grupo se dedica a la creación de arte mediante la tecnología digital.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/kanesue/46534356171/in/photolist-2dU5JRH-Q8SNDn-2dU63ka-Q8SLFp-2cN8Mmo-Q8SPNr-2dU5Mqa-2dPvhcm-2dU5Qte-Q8SCaX-Q8SW7P-Q8T3yB-2cN96JA-2dU6bvi-2dU6bUK-2eE1xCp-2cN94xS-2b8uWfm-2dPuWxm-2cN8Vmb-2dPviJ9-2dU5Mmc-Q8SW3k-2dPv4CU-RL9Gms-2dU64LX-2dU6fsM-2dPvooj-2dU6bxn-2cvnEZa-2cN8MuQ-2cvnB7a-2dU67ux-RLa2sd-2dU67wB-2cvnGRB-2dU5UxX-2cvnrBD-2dPvaFA-Q8SDw4-2dU651V-2dU6fqn-2b8uX7b-RLa2wS-2cN8LEy-2cvnoKX-2dPuX6f-2dPvhcw-RL9J3y-RL9SHQ" title="teamLab"><img src="https://live.staticflickr.com/7917/46534356171_1c128a0dc4_h.jpg" width="1440" height="1079" alt="teamLab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/7917/46534356171_1c128a0dc4_h.jpg"  alt="teamLab"></a>
 
 
 
